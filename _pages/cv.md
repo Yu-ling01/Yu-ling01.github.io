@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+## Download My CV
+
+You can download my CV in French directly using the link below:
+
+[Download CV](https://Yu-ling01.github.io/yourrepo/assets/cv.pdf){:target="_blank" download}
+
 Education
 ======
 * Ph.D in Linguistics, Lettres Sorbonne Université, 2027 (expected)
