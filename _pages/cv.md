@@ -9,11 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## Download My CV
-
 You can download my CV in French directly using the link below:
-
-[Download CV](https://Yu-ling01.github.io/yourrepo/assets/cv.pdf){:target="_blank" download}
+[Download CV](https://Yu-ling01.github.io/yourrepo/assets/CV_Yu%20SUN.pdf){:target="_blank" download}
 
 Education
 ======
