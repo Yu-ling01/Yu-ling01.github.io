@@ -1,5 +1,5 @@
 ---
-title: "L'antéposition du nominal en fonction objet en mandarin : structure syntaxiques et informatives"
+title: L'antéposition du nominal en fonction objet en mandarin : structure syntaxiques et informatives
 collection: publications
 category: manuscripts
 permalink: https://shs.cairn.info/revue-la-linguistique-2023-1-page-131?lang=fr
