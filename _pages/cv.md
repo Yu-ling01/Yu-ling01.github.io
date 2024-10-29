@@ -40,20 +40,19 @@ Languages
 
 Publications
 ======
-* Sun, Yu. 2024. [La grammaticalisation de l'expression modale 要 yào en mandarin standard] (https://shs.cairn.info/article/LING_601_0107?tab=resume) 
+* Sun, Yu. 2024. ["La grammaticalisation de l'expression modale 要 yào en mandarin standard"](https://shs.cairn.info/article/LING_601_0107?tab=resume). La Linguistique, 2024/1 (vol.60), pp. 107-25. Presses Universitaires de France. DOI : 10.3917/ling.601.0107.
+* Sun, Yu. 2023. ["L'antéposition du nominal en fonction objet en mandarin : structures syntaxiques et informatives"](https://shs.cairn.info/revue-la-linguistique-2023-1-page-131?lang=fr). La Linguistique, 2023/1 (vol. 59), pp. 131-52. Presses Universitaires de France. DOI : 10.3917/ling.591.0131.
   
-Talks
+Conference presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* On quantifiers in Tuha Haoni (presented in French). In the 45th International Colloquium of Functional Linguistics (SILF 45). Olomouc, Czech Republic. October 2024.
+* On grammatical numbers in Tuha Haoni (presented in English). In the 37th Paris Meeting on East Asian Linguistics. Paris, France. July 2024.
+* Grammaticalization of the modal expression 要 yào in Mandarin (presented in French). In the 44th International Colloquium of Functional Linguistics (SILF 44). Kalamata, Greece. October 2023.
+* Phonological analysis of [v] in Tuha Haoni (presented in English). In the 36th Paris Meeting on East Asian Linguistics. Paris, France. July 2023.
+* Nominal object preposing in Mandarin (presented in French). In the 43th International COlloquium of Functional Linguistics (SILF 43). Saint-Sebestian, Spain. October 2022.
   
-Teaching
+Teaching (in French, From January 2025)
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* General syntax: Year 3, Undergraduate.
+* Morphosyntax: Year 2, Postgraduate.
+* Spoken language modeling: Year 1, Postgraduate.
