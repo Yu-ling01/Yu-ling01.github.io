@@ -52,7 +52,7 @@ Conference presentations
 * On grammatical numbers in Tuha Haoni (presented in English). In the 37th Paris Meeting on East Asian Linguistics. Paris, France. July 2024.
 * Grammaticalization of the modal expression 要 yào in Mandarin (presented in French). In the 44th International Colloquium of Functional Linguistics (SILF 44). Kalamata, Greece. October 2023.
 * Phonological analysis of [v] in Tuha Haoni (presented in English). In the 36th Paris Meeting on East Asian Linguistics. Paris, France. July 2023.
-* Nominal object preposing in Mandarin (presented in French). In the 43th International COlloquium of Functional Linguistics (SILF 43). Saint-Sebestian, Spain. October 2022.
+* Nominal object preposing in Mandarin (presented in French). In the 43th International Colloquium of Functional Linguistics (SILF 43). Saint-Sebestian, Spain. October 2022.
   
 Teaching (in French, From January 2025)
 ======
