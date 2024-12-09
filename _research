@@ -1,0 +1,43 @@
+---
+layout: default
+title: "Research"
+permalink: /research/
+---
+
+# Research
+
+Welcome to my research page! Here, you'll find details about my latest research projects, along with relevant images and downloadable reports.
+
+---
+
+## Research Topic 1: Title of Your Research
+
+### Description
+This section includes a description of the research. For example:
+> This study investigates the impact of linguistic structures on cognitive processes in multilingual environments.
+
+### Image
+Here is an image related to this research:
+![Research Image](images/research1.jpg)
+
+(Upload `research1.jpg` to the `images` folder in your repository.)
+
+---
+
+## Research Topic 2: Title of Another Research
+
+### Description
+This section describes another research project. For example:
+> This research focuses on the evolution of neural networks during language acquisition.
+
+### Downloadable Report
+You can download the full report here:
+- [Download Research Report (PDF)](files/research2.pdf)
+
+(Upload `research2.pdf` to the `files` folder in your repository.)
+
+---
+
+## Summary
+
+Thank you for exploring my research. Stay tuned for more updates on my work!
